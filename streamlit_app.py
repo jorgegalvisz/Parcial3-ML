@@ -162,4 +162,4 @@ if menu == "K-Means (Clustering)":
 # ================================
 # FOOTER
 # ================================
-st.markdown("<p class='footer'>Proyecto académico desarrollado por Jorge Enrique Galvis Sáenz</p>", unsafe_allow_html=True)
+st.markdown("<p class='footer'>Proyecto académico desarrollado por Jorge Galvis y Miguel Lerma</p>", unsafe_allow_html=True)
